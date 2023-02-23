@@ -1,0 +1,20 @@
+.book {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    z-index: -2;
+    opacity: 0.4 ;
+}
+
+.book_2 {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    z-index: -2;
+    opacity: 0.4 ;
+    border: 5rem;
+}

@@ -1,0 +1,17 @@
+body { 
+    background-color: rgb(253, 224, 238);
+    margin: 0rem;
+}
+
+
+.aesthetic {
+    background-color: hotpink;
+    font-size: 8.2rem;
+    width: 100vw;
+    height: 10vh;
+    margin: 45vh 0vh 45vh 0vh;
+    z-index: -1;
+    color: black;
+    text-align: center;
+
+}
